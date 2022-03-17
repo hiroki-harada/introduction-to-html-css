@@ -124,3 +124,20 @@ footer p {
     color: #fff;
     font-size: 0.875rem;
 }
+
+
+/* article */
+article {
+    width: 74%;
+}
+
+/* side bar */
+aside {
+    width: 22%;
+}
+
+.news-contents {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
